@@ -13,7 +13,7 @@
 */
 
 qcom,desay-samsung-2260mAh-PD1410-VBMS-data {
-	qcom,fcc-mah = <2260>;
+	qcom,fcc-mah = <5000>;
 	qcom,default-rbatt-mohm = <183>;
 	qcom,rbatt-capacitive-mohm = <50>;
 	qcom,max-voltage-uv = <4350000>;

@@ -13,7 +13,7 @@
 */
 
 qcom,b76-atl-4v35-2260mah-data {
-	qcom,fcc-mah = <2260>;
+	qcom,fcc-mah = <5000>;
 	qcom,default-rbatt-mohm = <170>;
 	qcom,rbatt-capacitive-mohm = <50>;
 	qcom,flat-ocv-threshold-uv = <3800000>;

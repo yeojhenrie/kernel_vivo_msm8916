@@ -17,7 +17,7 @@ qcom,atl-ds-4v35-2300mah-batterydata {
 	qcom,batt-id-kohm = <20>;
 	qcom,chg-term-ua = <100000>;
 	qcom,default-rbatt-mohm = <152>;
-	qcom,fcc-mah = <2350>;
+	qcom,fcc-mah = <5000>;
 	qcom,max-voltage-uv = <4350000>;
 	qcom,rbatt-capacitive-mohm = <50>;
 	qcom,v-cutoff-uv = <3400000>;
